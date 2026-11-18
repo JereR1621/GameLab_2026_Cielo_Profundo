@@ -1,0 +1,206 @@
+{
+  "items": [
+    {
+      "id": "lampara_guardia",
+      "nombre": "Lámpara de guardia",
+      "forma": "Lampara",
+      "color": "#FAC76B",
+      "serie": "PRL-0412-L",
+      "tramo": 1,
+      "voz": "cuadrilla",
+      "texto": "Encontrada encendida junto a un puesto de observación. Alguien trabajaba de noche aquí. Hay una nota atada al asa: «tercer turno seguido, que alguien me releve»."
+    },
+    {
+      "id": "lente_medicion",
+      "nombre": "Lente de medición",
+      "forma": "Lente",
+      "color": "#8FD9E0",
+      "serie": "PRL-0119-V",
+      "tramo": 1,
+      "voz": "cuadrilla",
+      "texto": "Instrumental estándar de Paralax. Sirve para medir la distancia a una estrella comparándola contra el fondo. Está calibrada y guardada con cuidado, como si pensaran usarla mañana."
+    },
+    {
+      "id": "antena_enlace",
+      "nombre": "Antena de enlace",
+      "forma": "Antena",
+      "color": "#9E86E8",
+      "serie": "PRL-0876-A",
+      "tramo": 1,
+      "voz": "cuadrilla",
+      "texto": "Equipo de transmisión de campo. El registro marca cuarenta y un envíos correctos y ninguna respuesta recibida. Nadie anotó eso como un problema."
+    },
+    {
+      "id": "placa_turno",
+      "nombre": "Placa de turnos",
+      "forma": "Tablilla",
+      "color": "#C7CBDA",
+      "serie": "PRL-0233-T",
+      "tramo": 1,
+      "voz": "cuadrilla",
+      "texto": "Turnos de la tercera cuadrilla, anotados con marcador y borrados muchas veces. En la última semana quedan dos nombres. Los otros cuatro no están tachados: están raspados."
+    },
+    {
+      "id": "frasco_muestras",
+      "nombre": "Frasco de muestras",
+      "forma": "Frasco",
+      "color": "#7FD1A8",
+      "serie": "PRL-0301-M",
+      "tramo": 1,
+      "voz": "cuadrilla",
+      "texto": "Muestra de suelo, sellada y rotulada como corresponde. La fecha de recolección es de hace tres años. Paralax registró este sistema como no explorado hasta que te asignó la ruta."
+    },
+    {
+      "id": "credencial_cuatro",
+      "nombre": "Credencial de campo",
+      "forma": "Credencial",
+      "color": "#B9C3D6",
+      "serie": "PRL-0188-C",
+      "tramo": 1,
+      "voz": "paralax",
+      "texto": "Identificación de operario de la cuarta cuadrilla. La foto está gastada hasta quedar en blanco, pero el resto de la placa no tiene una sola marca de uso. Se gastó de un solo lado."
+    },
+
+    {
+      "id": "lampara_campamento",
+      "nombre": "Lámpara de campamento",
+      "forma": "Lampara",
+      "color": "#F0A24E",
+      "serie": "PRL-0412-L",
+      "tramo": 2,
+      "voz": "cuadrilla",
+      "texto": "El número de serie es el mismo que el de la lámpara del primer cuerpo de la ruta. No es un modelo repetido: es la misma unidad. Y está bastante más gastada que entonces."
+    },
+    {
+      "id": "lente_rayada",
+      "nombre": "Lente rayada",
+      "forma": "Lente",
+      "color": "#7FC0CC",
+      "serie": "PRL-0119-W",
+      "tramo": 2,
+      "voz": "cuadrilla",
+      "texto": "El cristal está rayado en líneas finas y paralelas que no se sienten al pasar el dedo. Están dentro del vidrio. No hay forma conocida de rayar un vidrio por dentro."
+    },
+    {
+      "id": "giroscopio_orientacion",
+      "nombre": "Giroscopio de orientación",
+      "forma": "Giroscopio",
+      "color": "#A98FE8",
+      "serie": "PRL-0644-G",
+      "tramo": 2,
+      "voz": "cuadrilla",
+      "texto": "Los aros se acomodan solos hasta apuntar al mismo punto del cielo, lo gires como lo gires. En los registros de la cuadrilla aparece siempre como «la fuente». Nadie anotó nunca sus coordenadas."
+    },
+    {
+      "id": "carrete_registro",
+      "nombre": "Cinta de registro",
+      "forma": "Carrete",
+      "color": "#D9B26A",
+      "serie": "PRL-0512-R",
+      "tramo": 2,
+      "voz": "cuadrilla",
+      "texto": "Bitácora hablada de una jornada normal. Cada tanto la voz se corta a mitad de una frase, espera unos segundos y sigue como si nada. Lo hace once veces. Siempre son cuatro segundos."
+    },
+    {
+      "id": "cuaderno_cuarta",
+      "nombre": "Cuaderno de la cuarta cuadrilla",
+      "forma": "Tablilla",
+      "color": "#DCA0A0",
+      "serie": "PRL-0455-T",
+      "tramo": 2,
+      "voz": "cuadrilla",
+      "texto": "Escrito a mano, no en formato de reporte. «No le pongan nombre. En cuanto lo anotan en el catálogo deja de ser una hipótesis y pasa a existir. Trabajen a ciegas si hace falta.»"
+    },
+    {
+      "id": "frasco_sellado",
+      "nombre": "Frasco sellado",
+      "forma": "Frasco",
+      "color": "#8FB8E0",
+      "serie": "PRL-0333-M",
+      "tramo": 2,
+      "voz": "cuadrilla",
+      "texto": "Precinto intacto, sin rótulo. Cuando lo apoyas, el contenido tarda un momento de más en quedarse quieto. Como si hubiera empezado a moverse antes de que lo soltaras."
+    },
+    {
+      "id": "baliza_campo",
+      "nombre": "Baliza de campo",
+      "forma": "Baliza",
+      "color": "#F0805F",
+      "serie": "PRL-0702-B",
+      "tramo": 2,
+      "voz": "paralax",
+      "texto": "Sin activar. Junto a ella, escrito sobre la caja con la misma letra apurada de todo lo demás: «no la usen, escucha». La instrucción oficial de Paralax dice exactamente lo contrario."
+    },
+
+    {
+      "id": "lampara_sin_combustible",
+      "nombre": "Lámpara sin combustible",
+      "forma": "Lampara",
+      "color": "#F5D8A8",
+      "serie": "PRL-0412-L",
+      "tramo": 3,
+      "voz": "cuadrilla",
+      "texto": "Depósito vacío y seco desde hace mucho. Sigue encendida. Es la tercera vez que aparece esta misma unidad en la ruta, y en cada cuerpo estaba un poco más gastada que en el anterior."
+    },
+    {
+      "id": "lente_ultimo",
+      "nombre": "Lente del último cartógrafo",
+      "forma": "Lente",
+      "color": "#6FC9D4",
+      "serie": "PRL-0119-Z",
+      "tramo": 3,
+      "voz": "cuadrilla",
+      "texto": "Guardada en su estuche, limpia, con el folio grabado a mano en el borde. Quien la dejó aquí no salió corriendo: se tomó el tiempo de ordenarla antes."
+    },
+    {
+      "id": "casco_quinta",
+      "nombre": "Casco de la quinta cuadrilla",
+      "forma": "Casco",
+      "color": "#DBA23C",
+      "serie": "PRL-0955-H",
+      "tramo": 3,
+      "voz": "cuadrilla",
+      "texto": "Visor entero, sellos intactos, sin una grieta. El anillo de cuello está cerrado por dentro, y solo se puede cerrar así con alguien puesto adentro. El casco está vacío."
+    },
+    {
+      "id": "carrete_final",
+      "nombre": "Cinta sin rotular",
+      "forma": "Carrete",
+      "color": "#E0A05A",
+      "serie": "PRL-0512-Z",
+      "tramo": 3,
+      "voz": "cuadrilla",
+      "texto": "La grabación es tu voz. Está leyendo entradas de catálogo con tu número de folio, en orden, tranquila. Reconoces las primeras. Las últimas todavía no las escribiste."
+    },
+    {
+      "id": "giroscopio_detenido",
+      "nombre": "Giroscopio detenido",
+      "forma": "Giroscopio",
+      "color": "#C08FE8",
+      "serie": "PRL-0644-Z",
+      "tramo": 3,
+      "voz": "cuadrilla",
+      "texto": "Ya no apunta a la fuente. Los aros están trabados, quietos, orientados hacia abajo y hacia dentro. Apuntan a quien lo esté sosteniendo."
+    },
+    {
+      "id": "credencial_seis",
+      "nombre": "Credencial — sexta cuadrilla",
+      "forma": "Credencial",
+      "color": "#E8574F",
+      "serie": "PRL-0188-Z",
+      "tramo": 3,
+      "voz": "paralax",
+      "texto": "Sexta cuadrilla: la tuya. Tu folio, tu foto. Pero el plástico está rajado y los bordes redondeados por años de uso, y tú bajaste aquí por primera vez esta mañana."
+    },
+    {
+      "id": "ultima_entrada",
+      "nombre": "Tablilla — última entrada",
+      "forma": "Tablilla",
+      "color": "#E8574F",
+      "serie": "PRL-0000-T",
+      "tramo": 3,
+      "voz": "cuadrilla",
+      "texto": "Grabada a mano, apurada, encima de una entrada anterior que rasparon. «Dejamos de anotar coordenadas. Ya sabe dónde estamos.» El catálogo se corta aquí."
+    }
+  ]
+}
